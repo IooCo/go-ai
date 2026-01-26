@@ -127,7 +127,7 @@
 - 能独立写一个后端服务
 
 ### 技术栈建议
-- Gin 或 Gorm
+- Gin 和 Gorm
 - JSON 接口
 - MySQL / PostgreSql（二选一）
 
