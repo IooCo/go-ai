@@ -1,0 +1,4 @@
+{"timestamp":"2025-02-15T10:00:00Z","level":"info","source":"user_behavior","user_id":"u001","action":"login","message":"用户登录"}
+{"timestamp":"2025-02-15T10:01:00Z","level":"info","source":"ai_interaction","user_id":"u001","action":"chat","duration_ms":120,"message":"AI对话"}
+{"timestamp":"2025-02-15T10:02:00Z","level":"info","source":"user_behavior","user_id":"u002","action":"answer","message":"答题提交"}
+{"timestamp":"2025-02-15T10:03:00Z","level":"error","source":"system","message":"接口超时"}
